@@ -1,0 +1,11 @@
+"epochs": 20
+"lr" : 0.003
+"batch_size": 16
+"model_dir": "./model"
+"training": False    # set True for training
+
+
+# for testing 
+"input_dir": ""
+"output_dir": "./vis"
+"ckpt_pth": "model/model_19.pth"

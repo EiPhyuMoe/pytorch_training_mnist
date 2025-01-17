@@ -1,0 +1,1 @@
+### This reposiotry is all about testing pytorch neural network model and practicing code.
